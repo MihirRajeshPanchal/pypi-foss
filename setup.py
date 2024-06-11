@@ -18,7 +18,7 @@ setup(
   author_email='mihirpanchal5400@gmail.com',
   license='MIT', 
   classifiers=classifiers,
-  keywords=['meetup', 'foss', 'mihir']
+  keywords=['meetup', 'foss', 'mihir'],
   packages=find_packages(),
   install_requires=['requests','tk'] 
 )

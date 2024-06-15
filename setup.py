@@ -9,8 +9,8 @@ classifiers = [
 ]
  
 setup(
-  name='foss-meetups',
-  version='0.0.1',
+  name='fossmeetups',
+  version='0.0.2',
   description='Foss Meetup by Mihir Panchal',
   long_description=open('README.txt').read() + '\n\n' + open('CHANGELOG.txt').read(),
   url='',  

@@ -1,5 +1,7 @@
 # From Code to Community: Publishing PyPI Packages in the Open Source World
 
+![image](https://github.com/MihirRajeshPanchal/pypi-foss/assets/78205431/b61ff810-82fc-44ee-854a-e0ba24f68eed)
+
 ## RSVP
 ```
 https://fossunited.org/events/mum-jun24/rsvp
